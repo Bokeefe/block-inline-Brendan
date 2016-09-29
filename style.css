@@ -19,15 +19,13 @@
 	text-decoration: underline;
 }
 
-.tiled_container{
-	width: 100%;
-	background-color: white;
+.tiled_container > div {
 	height: 10px;
 	border-top:5px solid black;
 	border-bottom:5px solid black;
 }
 .tiled_height{
-	margin: 163px;
+	margin: 0px;
 }
 /* These are for the exercise, please don't edit them! */
 html,body{margin:0;padding:0;}
